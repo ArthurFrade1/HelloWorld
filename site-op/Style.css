@@ -1,0 +1,12 @@
+#title{
+    margin-left: 45%;
+    border-bottom: 10px;
+    border-color: blue;
+}
+#body{
+    background-color: bisque;
+}
+#letras{
+    color: black;
+    align-items: center;
+}
